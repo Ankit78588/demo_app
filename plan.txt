@@ -1,3 +1,9 @@
 Our plans:
-1. create /signup get route
-2. create /signup post route
+1. create /signup GET route
+2. create /signup POST route
+
+3. create /login GRT route
+4. create /login POST route - to handle data
+
+
+5. create models of users / posts
