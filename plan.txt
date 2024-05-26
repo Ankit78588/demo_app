@@ -7,3 +7,7 @@ Our plans:
 
 
 5. create models of users / posts
+6. users model
+7. posts model
+
+8. Data for 3rd version
