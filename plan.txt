@@ -1,0 +1,3 @@
+Our plans:
+1. create /signup get route
+2. create /signup post route
